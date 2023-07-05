@@ -35,13 +35,6 @@
 - 📫 Feel free to reach me out **federico.sabiche@gmail.com**
 
 <!--Intro end-->
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
 </p>        
 <!--- stats (end) -->
 
