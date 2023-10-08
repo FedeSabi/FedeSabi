@@ -48,7 +48,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,express,github,html,java,js,mongodb,mysql,nodejs,postman,react,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,express,github,html,java,js,mongodb,mysql,nodejs,postman,react,ts,discord,figma,pug,tailwind,vercel,vite,vscode&perline=14" />
   </a>
 </p>
 
@@ -77,6 +77,6 @@
 
 
 ----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
 
-Last Edited on: 29/4/2023
+
+
